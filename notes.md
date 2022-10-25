@@ -22,3 +22,12 @@ roblox studio
 entwiklung und eps
 
  in der Programmierung ein Argument, das einem Programm oder Unterprogramm übergeben wird
+
+ Kontrollstrukturen (Steuerkonstrukte) sind Anweisungen in imperativen Programmiersprachen.
+
+ Kontrollstrukturen sind in der Informatik die Vorgabe, in welcher Reihenfolge die Handlungsschritte eines Algorithmus abgearbeitet werden.
+
+ er versucht die farben zu ver mischen.
+ Damit er andere farben heraus krigt.
+
+ 
