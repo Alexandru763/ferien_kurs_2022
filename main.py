@@ -9,8 +9,7 @@ def sketch(p):
         p.createCanvas(700, 410)
         p.background(1)
         p.rectMode(p.CENTER)
+        p.circle(235,150,57);
+    p.setup = setup    
 
-        p.setup = setup
-
-myp5 = window.p5.new(sketup
-        
+myp5 = window.p5.new(sketch)
